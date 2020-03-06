@@ -1,0 +1,27 @@
+{
+  "name": "webgl-github-webhooks",
+  "version": "1.0.0",
+  "description": "a project for Aijia_UED department auto deploy projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aijia-frontend/webgl-github-webhooks.git"
+  },
+  "keywords": [
+    "aijia",
+    "github-webhook"
+  ],
+  "author": "613870505@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aijia-frontend/webgl-github-webhooks/issues"
+  },
+  "homepage": "https://github.com/aijia-frontend/webgl-github-webhooks#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "node-github-webhook": "^1.0.7"
+  }
+}
